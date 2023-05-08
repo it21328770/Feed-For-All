@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Feed For All</string>
+    <string name="string_rightaddress">FEED FOR ALL...!</string>
+    <string name="quality">The aim of FEED4ALL  is to make economics more relevant, less an excercise in mathematical technique for its own sake, and more able to deal with real-world problems.</string>
+    <string name="password" >Password</string>
+    <string name="email">Email</string>
+</resources>
