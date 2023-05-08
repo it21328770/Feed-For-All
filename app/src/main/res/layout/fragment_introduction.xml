@@ -24,7 +24,7 @@
         app:layout_constraintEnd_toEndOf="@id/guidelineEllipseRight"
         app:layout_constraintTop_toTopOf="@id/guidelineEllipseTop"
         app:layout_constraintBottom_toBottomOf="@id/guidelineEllipseBottom"
-        android:background="@drawable/Charity"
+        android:background="@drawable/charity"
         app:layout_constraintDimensionRatio="2:"
         android:alpha="0.8"/>
 
